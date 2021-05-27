@@ -1,4 +1,4 @@
-Aplicación web para realizar donaciones online y recibir beneficios in-game automáticamente.
+Aplicación web en PHP para realizar donaciones online y recibir beneficios in-game automáticamente.
 
 # Importante:
 La aplicación está adaptada a POP 3, pero pódeis adaptarla para cualquier framework.<br/>
