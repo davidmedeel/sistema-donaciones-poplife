@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-include_once '../../../../../../../config.php';
+include_once '../../../../../config.php';
 
 // #Execute Payment Sample
 // This is the second step required to complete
